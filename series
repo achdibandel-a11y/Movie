@@ -1,6 +1,37 @@
 
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 1
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/0e986d5561458294a204bafe511daa4f/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 2" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 2
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/a18e814df9c8f1e60cd1274696b2e251/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 3" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 3
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/2f68af1c8d25fcbf78e04896b4db161f/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 4" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 4
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/2a7032ef9c47b520d1544290c48435e7/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 5" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 5
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/dcb3d8e08854291e2777b266bdc6099e/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Final Table (2026)" tvg-name="Final Table (2026) - Episode 6" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-final-table-2026-lk21.jpg",Final Table (2026) - Episode 6
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/d94a23a78d141c59f2bb706229d7fbad/1/0.m3u8?x=1
+
 
 #EXTM3U
 #EXTINF:-1 group-title="When I Meet the Moon (2026)" tvg-name="When I Meet the Moon (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-when-i-meet-moon-2026-lk21.jpg",When I Meet the Moon (2026) - Episode 1
