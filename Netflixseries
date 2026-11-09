@@ -1,4 +1,45 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 1
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/a307d914577b228147854de4917737a8/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 2" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 2
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/1fa922f8368265ee8ee6068436dda350/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 3" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 3
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/e57b047101b95f028278635cd85dd462/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 4" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 4
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/1687dec033c6498e40b3eba9070ba01a/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 5" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 5
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/350808b5381a4c5689db15326bbf1b43/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 6" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 6
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/e089694485e11a72cb57485de97bc1de/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 7" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 7
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/569ca1c795366a38cdf2a7da368f4f00/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 8" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 8
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/7080168494a70182b220b16663902ed5/1/0.m3u8?x=1
+
 
 #EXTINF:-1 group-title="Doctor X Age of the White Mafia (2026)" tvg-name="Doctor X Age of the White Mafia (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-doctor-x-age-white-mafia-2026-lk21.jpg",Doctor X Age of the White Mafia (2026) - Episode 1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
