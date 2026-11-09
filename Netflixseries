@@ -46,6 +46,57 @@ https://stream.playcdn.de/playlist/bc5e9b1320566e174f1577f019d89f35/1/0.m3u8?x=1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://stream.playcdn.de/playlist/69aadb3e511b00ce0aa59bccced651e5/1/0.m3u8?x=1
+#EXTM3U
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 1
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/fa3572d2b6858563f510d80aa14319d6/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 2" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 2
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/fcef709bf16787f44a436712ea462b54/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 3" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 3
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/fe2f40c9dce54f3b8fd4e46a242eea56/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 4" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 4
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/e0aa43f20625089bb5e820394f838198/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 5" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 5
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/e4b618f568201a375e455803cffa3e84/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 6" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 6
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/d1173881fdfa557e5f4be0bc6d79f82e/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 7" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 7
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/9096e7aa7e0afe1d1e62047eca0c0665/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 8" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 8
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/6fa6494c7c41a6181c7f816b2a05d001/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 9" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 9
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/6bcdb548bfa13ea0340274dac2459f70/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 10" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 10
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/b10ea88e801ff6db5f7e363a1a077ba6/1/0.m3u8?x=1
+
 
 #EXTINF:-1 group-title="Take Charge of My Heart (2026)" tvg-name="Take Charge of My Heart (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-take-charge-my-heart-2026-lk21.jpg",Take Charge of My Heart (2026) - Episode 1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
