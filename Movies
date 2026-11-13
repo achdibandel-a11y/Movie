@@ -1,4 +1,65 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The 12 Dates of Christmas (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-12-dates-christmas-2026-lk21.jpg" group-title="2026",The 12 Dates of Christmas (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/11e68bd15ddcc3a59fc7a415fe2889cb/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="The Christmas Switch (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-christmas-switch-2026-lk21.jpg" group-title="2026",The Christmas Switch (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/f0f9e096ddbf03ae440d8c8337673033/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Allen (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-allen-2026-lk21.jpg" group-title="2026",Allen (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/9e8171a3ecba1c8f8639dfe2eeda41da/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-street-fighter-2026-lk21.jpg" group-title="2026",Street Fighter (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/7ab8e59efe2b971ca026f295b668deef/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Jailer 2 (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-jailer-2-2026-lk21.jpg" group-title="2026",Jailer 2 (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/f4d1bf0c2a83e172311de09946eddc0d/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Door Slasher (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-door-slasher-2026-lk21.jpg" group-title="2026",Door Slasher (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/25ac953d9d1e3ca4e27c753f2ddeaf12/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Kijsada Paradise (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-kijsada-paradise-2026-lk21.jpg" group-title="2026",Kijsada Paradise (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/44cf920a80d756dc7697a4b89b4779a5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Yellow Letters (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-yellow-letters-2026-lk21.jpg" group-title="2026",Yellow Letters (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/135cbaa91403a06aae701e4d61f42df6/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Avedon (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-avedon-2026-lk21.jpg" group-title="2026",Avedon (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/2791b156255986fa811b6d98851f3914/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="The Gospel of Christmas (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-gospel-christmas-2026-lk21.jpg" group-title="2026",The Gospel of Christmas (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/2060f079cfb112af8090aaf65eedd4ff/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="The Samurai and the Prisoner (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-samurai-prisoner-2026-lk21.jpg" group-title="2026",The Samurai and the Prisoner (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/08861a7907afc7ea060d0943f954a566/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Ha-Chan, Shake Your Booty! (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-ha-chan-shake-your-booty-2026-lk21.jpg" group-title="2026",Ha-Chan, Shake Your Booty! (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/32231175aceb967c735b38cb28b94d47/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Tales of the Monkey Mountain (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-tales-monkey-mountain-2026-lk21.jpg" group-title="2026",Tales of the Monkey Mountain (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/2e95f3629329043bedc24cbcd13da1c0/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Magical Secret Tour (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-magical-secret-tour-2026-lk21.jpg" group-title="2026",Magical Secret Tour (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/c2e0fa5585822849a3cddbe1b3fd1259/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="The Good Lawyer (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-good-lawyer-2026-lk21.jpg" group-title="2026",The Good Lawyer (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/83d437983a551ace706503f1015cdb14/1/0.m3u8?x=1
 #EXTINF:-1 tvg-id="" tvg-name="The Ghost Marriage (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-ghost-marriage-2026-lk21.jpg" group-title="2026",The Ghost Marriage (2026) [BG]
 #EXTVLCOPT:http-referrer=https://playcdn.de/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -3095,4 +3156,3 @@ https://stream.playcdn.de/playlist/4806f766e80e251d6288c2da2b07d10f/3/480.m3u8?x
 #EXTINF:-1 type="movie" group-title="Naruto" tvg-logo="",
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
