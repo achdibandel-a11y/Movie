@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTM3U
 #EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
@@ -88,6 +88,11 @@ https://stream.playcdn.de/playlist/bc5e9b1320566e174f1577f019d89f35/1/0.m3u8?x=1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://stream.playcdn.de/playlist/69aadb3e511b00ce0aa59bccced651e5/1/0.m3u8?x=1
+#EXTINF:-1 group-title="Doctor X Age of the White Mafia (2026)" tvg-name="Doctor X Age of the White Mafia (2026) - Episode 5" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-doctor-x-age-white-mafia-2026-lk21.jpg",Doctor X Age of the White Mafia (2026) - Episode 11
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/7717c0e9e88dc00c46fcf8fb5aab8c45/1/0.m3u8?x=1
+
 #EXTM3U
 #EXTINF:-1 group-title="100 Days of Lies (2026)" tvg-name="100 Days of Lies (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-100-days-lies-2026-lk21.jpg",100 Days of Lies (2026) - Episode 1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
