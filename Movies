@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The Social Reckoning (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-social-reckoning-2026-lk21.jpg" group-title="2026",The Social Reckoning (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/7ebb7c2a75cd4ff7bd0688f436cd6b39/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="The Last Temptation of Becky (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-last-temptation-becky-2026-lk21.jpg" group-title="2026",The Last Temptation of Becky (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/a08f2c835e294b4c871a03bb733e15d2/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Best Pancakes in the County (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-best-pancakes-county-2026-2-lk21.jpg" group-title="2026",Best Pancakes in the County (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/b31ebbb8d06d6214a9f1b68086fec248/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Unbearable Christmas (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-unbearable-christmas-2026-lk21.jpg" group-title="2026",Unbearable Christmas (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/478da76f838f17146640d586781fd451/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Steps (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-steps-2026-lk21.jpg" group-title="2026",Steps (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/5aa5c609192111daa892b4ea10b6a09b/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="On Behalf of My Son (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-behalf-my-son-2026-lk21.jpg" group-title="2026",On Behalf of My Son (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/5564840902d4fec52c071da30cae41e7/1/0.m3u8?x=1
+#EXTINF:-1 tvg-id="" tvg-name="Soul Snatcher (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-soul-snatcher-2026-lk21.jpg" group-title="2026",Soul Snatcher (2026) [BG]
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/5c1d38b11579b8de88c04d12445d2f93/1/0.m3u8?x=1
 #EXTINF:-1 tvg-id="" tvg-name="Haiku (2026)" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-haiku-2026-lk21.jpg" group-title="2026",Haiku (2026) [BG]
 #EXTVLCOPT:http-referrer=https://playcdn.de/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
