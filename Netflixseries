@@ -1,5 +1,45 @@
-
 #EXTM3U
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 1
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/0035687f9a659d6aa4c8ef918f6d4e6e/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 2" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 2
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/6aa22c980a494bfc03860f87215f5251/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 3" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 3
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/f321690e540f56c11d9f87c7126252aa/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 4" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 4
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/69e02f2c39a15d82e28a43fdc55c5dbd/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 5" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 5
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/1693566b646c70f429e1002bcd7350d5/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 6" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 6
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/31fd024c273f7a49a251befec781c21d/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 7" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 7
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/17eff99cb4a7a5abfba9a2238ebf3d98/1/0.m3u8?x=1
+
+#EXTINF:-1 group-title="The Blue Road (2026)" tvg-name="The Blue Road (2026) - Episode 8" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/11/film-blue-road-2026-lk21.jpg",The Blue Road (2026) - Episode 8
+#EXTVLCOPT:http-referrer=https://playcdn.de/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://stream.playcdn.de/playlist/fd5c5fbc42eb1baa31134cab17481c6c/1/0.m3u8?x=1
+
+
 #EXTINF:-1 group-title="Dead-End Job (2026)" tvg-name="Dead-End Job (2026) - Episode 1" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/10/film-dead-end-job-2026-lk21.jpg",Dead-End Job (2026) - Episode 1
 #EXTVLCOPT:http-referrer=https://playcdn.de/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
